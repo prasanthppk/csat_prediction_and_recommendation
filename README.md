@@ -5,4 +5,6 @@ Model developed using: `VADER Sentiment Analyzer`
 
 Topic Modeling: `LDA`
 
-To test model, Please run the `app.py` file after clone the files
+Run `dependencies.py` file, if you cloned to local.
+
+Then run the `app.py` file to testing the model.
